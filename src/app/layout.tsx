@@ -6,8 +6,8 @@ import "./globals.css";
 const dmSans = DM_Sans({subsets: ["latin"]});
 
 export const metadata: Metadata = {
-    title: "SaaS Landing Page",
-    description: "A beautiful dark landing page for a SaaS application.",
+    title: "TONShip",
+    description: "TONShip is a blockchain-based space escape game app.",
 };
 
 export default function RootLayout({children}: Readonly<{ children: React.ReactNode }>) {
